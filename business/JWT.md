@@ -52,7 +52,7 @@
 
 ### 官网示例：
 
-![image-1](http://preflight-gitbook.oss-cn-shenzhen.aliyuncs.com/resources/image-1.png)
+![image-1](http://r320sbqmw.hn-bkt.clouddn.com/resources/image-1.png)
 
 代码示例：
 
