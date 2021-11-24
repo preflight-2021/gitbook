@@ -17,8 +17,8 @@
 
 ```json
 {
-    'alg': "HS512",
-    'typ': "JWT"
+    "alg": "HS512",
+    "typ": "JWT"
 }
 ```
 
@@ -52,12 +52,12 @@
 
 ### 官网示例：
 
-![image-1](E:\preflight\gitbook\business\resources\image-1.png)
+![image-1](http://preflight-gitbook.oss-cn-shenzhen.aliyuncs.com/resources/image-1.png)
 
 代码示例：
 
 - java：github.com
-- golang: github.com
+- golang： github.com
 
 文献参考:
 
