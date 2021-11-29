@@ -34,7 +34,7 @@ JWT则是用在前后端分离的场景下实现API接口进行保护。
 
 ### 运行流程
 
-<<img src="F:\wmx\gitbook\business\resources\Oauth2-flow.png" alt="Oauth2-flow"  />
+<<img src="http://raw.githubusercontent.com/preflight-2021/gitbook/master/business/resources/oauth2-flow.png" alt="Oauth2-flow"  />
 
 1. 用户打开客户端，客户端响应用户授权请求。
 

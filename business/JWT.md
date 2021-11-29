@@ -52,7 +52,7 @@
 
 ### 官网示例：
 
-![image-1](https://raw.githubusercontent.com/preflight-2021/gitbook/master/business/resources/image-1.png)
+![image-1](http://raw.githubusercontent.com/preflight-2021/gitbook/master/business/resources/image-1.png)
 
 代码示例：
 
