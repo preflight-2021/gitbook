@@ -10,7 +10,7 @@ JDK是开发工具包， JRE是Java运行环境；JDK中包含JRE， JRE可以�
 
 一图说明JDK和JRE内置关系：
 
-![1538359-20181116230026406-1027438630](F:\gitbook\java\jdk\resources\1538359-20181116230026406-1027438630.png)<
+![1538359-20181116230026406-1027438630](https://raw.githubusercontent.com/preflight-2021/gitbook/master/java/jdk/resources/1538359-20181116230026406-1027438630.png)<
 
 
 
