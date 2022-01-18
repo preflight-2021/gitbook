@@ -10,7 +10,7 @@ JDK是开发工具包， JRE是Java运行环境；JDK中包含JRE， JRE可以�
 
 一图说明JDK和JRE内置关系：
 
-![1538359-20181116230026406-1027438630](F:\gitbook\java\jdk\resources\1538359-20181116230026406-1027438630.png)<
+![1538359-20181116230026406-1027438630](https://raw.githubusercontent.com/preflight-2021/gitbook/master/java/jdk/resources/1538359-20181116230026406-1027438630.png)<
 
 
 
@@ -20,13 +20,13 @@ Java语言编写的程序需要经过编译生成.class 文件，与平台无关
 
 JVM是可运行Java字节码文件（.class ）的**虚拟计算机**，将字节码转换成特定系统的**机器码执行**。
 
-![image-20211127114438739](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211127114438739.png)<
+![image-20211127114438739](https://raw.githubusercontent.com/preflight-2021/gitbook/master/java/jdk/resources/image-20211127114438739.png)<
 
 
 
 ## JDK 目录说明
 
-![image-20211127114900787](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211127114900787.png)<
+<img src="https://raw.githubusercontent.com/preflight-2021/gitbook/master/java/jdk/resources/image-20211127114900787.png" alt="image-20211127114900787" style="zoom:80%;" /><
 
 1.  bin      ： 该路径下存放JDK各种命令工具的可执行文件， 包括java， javac 等命令都在该目录下命令实现， 都是在lib目录下的tools.jar 包中
 
@@ -54,11 +54,11 @@ JVM是可运行Java字节码文件（.class ）的**虚拟计算机**，将字�
 
    1. 新增系统变量JAVA_HOME
 
-      <![image-20211127120302692](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211127120302692.png)
+      <![image-20211127120302692](https://raw.githubusercontent.com/preflight-2021/gitbook/master/java/jdk/resources/image-20211127120302692.png)
 
    2. 系统变量Path路径下新增%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
 
-      ![image-20211127120526250](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211127120526250.png)<
+      ![image-20211127120526250](https://raw.githubusercontent.com/preflight-2021/gitbook/master/java/jdk/resources/image-20211127120526250.png)<
 
 
 
@@ -70,7 +70,7 @@ JVM是可运行Java字节码文件（.class ）的**虚拟计算机**，将字�
 
 图文说明JDK版本的更新历程：
 
-![image-20211127133155338](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211127133155338.png)<
+![image-20211127133155338](https://raw.githubusercontent.com/preflight-2021/gitbook/master/java/jdk/resources/image-20211127133155338.png)<
 
 
 
